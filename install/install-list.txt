@@ -1,0 +1,31 @@
+# Core API
+../lib/cldc11.jar=javax.microedition:cldc:1.1
+../lib/midp21.jar=javax.microedition:midp:2.1
+
+# Java Specification Requests
+../lib/jsr75_file.jar=javax.microedition.jsr:jsr75-file:1.0
+../lib/jsr75_pim.jar=javax.microedition.jsr:jsr75-pim:1.0
+../lib/jsr82.jar=javax.microedition.jsr:jsr82:1.1
+../lib/jsr120.jar=javax.microedition.jsr:jsr120:1.1
+../lib/jsr135.jar=javax.microedition.jsr:jsr135:1.2
+../lib/jsr177_crypto.jar=javax.microedition.jsr:jsr177-crypto:1.0
+../lib/jsr179.jar=javax.microedition.jsr:jsr179:1.0
+../lib/jsr184.jar=javax.microedition.jsr:jsr184:1.1
+../lib/jsr211.jar=javax.microedition.jsr:jsr211:1.0
+../lib/jsr226.jar=javax.microedition.jsr:jsr226:1.1
+../lib/jsr234.jar=javax.microedition.jsr:jsr234:1.1
+../lib/jsr256.jar=javax.microedition.jsr:jsr256:1.0
+
+# Device exclusive APIs
+../lib/mascotv3.jar=com.mascotcapsule.micro3d:mascotv3:1.0
+../lib/nokiaui.jar=com.nokia.mid:nokiaui:1.6
+../lib/siemensio.jar=com.siemens.mp:io:1.0
+../lib/samsungapi.jar=com.samsung.util:samsungapi:1.0
+
+# Utility
+../lib/javapiglerapi.jar=org.pigler.api:pigler:1.2
+
+# KEmulatr NNProject
+../lib/rpcapi.jar=ru.nnproject.kemulator:rpc:1.0
+../lib/notificationapi.jar=ru.nnproject.kemulator:notificationapi:1.0
+../lib/filemanagerapi.jar=ru.nnproject.kemulator:filemanagerapi:1.0
